@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 大龄野生程序员，感兴趣的方向：软件设计，编程语言设计
+
 
 <!--
 **xiongxin/xiongxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
